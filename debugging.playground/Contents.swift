@@ -21,7 +21,7 @@ class Foo {
     
 //: [EXPLAIN YOUR ANSWER TO Q1 HERE]
     
-    //The expression already produces "String??" at line 13
+    //The expression already produces "String?" at line 13
     //So the "?" at line 14 and 15 should be deleted
     
     
